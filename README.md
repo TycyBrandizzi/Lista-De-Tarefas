@@ -10,3 +10,15 @@ Organizar suas tarefas diárias de forma fácil e prática, de acordo com sua ne
 
 Ferramentas Utilizadas:
 
+*Javascript
+*React JS
+*Vite
+*React Router Dom
+*Sass
+*React- Icons
+*JSON Server
+
+
+Link de acesso: 
+
+
